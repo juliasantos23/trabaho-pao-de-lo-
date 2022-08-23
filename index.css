@@ -1,0 +1,13 @@
+body {
+    background: #F4A460
+}
+
+p {
+    text-align: left;
+}
+#banner {
+     width: 50%;
+     border: 10px solid #000000;
+     padding: 10px;
+     margin-left: 15px;
+} 
